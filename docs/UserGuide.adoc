@@ -161,6 +161,11 @@ Format: `clear`
 Exits the program. +
 Format: `exit`
 
+== Asking for the Level for AddressBook: 'level'
+
+Prints the level for the current AddressBook +
+Format: `level`
+
 == Saving the data
 
 Address book data are saved in the hard disk automatically after any command that changes the data.
