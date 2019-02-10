@@ -161,9 +161,9 @@ Format: `clear`
 Exits the program. +
 Format: `exit`
 
-== Asking for the Level for AddressBook: `level`
+== Asking for the level for address book: `level`
 
-Prints the level for the current AddressBook +
+Prints the level for the current address book +
 Format: `level`
 
 == Saving the data
